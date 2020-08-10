@@ -1,5 +1,12 @@
 __pycache__
 Automagica.egg-info
 !automagica\bin\win32\chromedriver.exe
+build
+dist
+.ipynb_checkpoints
+docs/build
+migrated
+*.log
+*.pid
 .vscode
-Automagica.egg-info
+*.whl
